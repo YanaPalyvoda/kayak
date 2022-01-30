@@ -35,11 +35,11 @@ The Kayak Marketing Team would like to create an application that will recommend
 
  - Install the additional packages in your virtual environment:  pip install -r requirements.txt
  
- - Register at https://openweathermap.org/appid to to get a free api key
+ - Register at https://openweathermap.org/appid to get a free api key
  
- - Create a Mapbox access token and put it  in the .mapbox_token file in your local folder to use plotly.express.scatter_mapbox
+ - Create a Mapbox access token and put it in the .mapbox_token file in your local folder to use plotly.express.scatter_mapbox
  
- - Create a AWS acces 
+ - Create an AWS acces 
 
  - Create in AWS RDS  a PostgresSQL  database 
 
